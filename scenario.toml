@@ -1,5 +1,4 @@
 [green_agent]
-agentbeats_id = "019aba63-33b5-74c3-b3fe-2251347fa60a"
 image = "ghcr.io/komyo-ai/agentbeats-tutorial-debate-judge:latest"
 env = { GOOGLE_API_KEY = "${GOOGLE_API_KEY}" }
 
